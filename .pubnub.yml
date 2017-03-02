@@ -171,7 +171,29 @@ features:
     - SUBSCRIBE-WILDCARD
   time: 
     - TIME-TIME
+supported-platforms:
+  - 
+    version: Pubnub C# 3.8.6
+    platforms:
+      - .Net Framework 3.5 and above
+      - Windows Phone, 8.1 or later
+      - Windows Store Apps, 8.1 or later
+  - 
+    version: PubnubPCL C# 3.8.6
+    platforms:
+      - .Net Framework 4.0 and above
+      - Xamarin.Android
+      - Xamarin.iOS
+      - Xamarin.Mac
+  - 
+    version: PubnubNetPlatform C# 3.8.6
+    platforms:
+      - .Net Framework 4.0 and above
+      - .Net Core
+      - Xamarin.Android
+      - Xamarin.iOS
+      - Xamarin.Mac
 name: c-sharp
 schema: 1
 scm: github.com/pubnub/c-sharp
-version: "3.8.5"
+version: "3.8.6"
