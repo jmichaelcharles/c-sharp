@@ -178,6 +178,7 @@ supported-platforms:
       - .Net Framework 3.5 and above
       - Windows Phone, 8.1 or later
       - Windows Store Apps, 8.1 or later
+      - Windows 7 OS and higher
   - 
     version: PubnubPCL C# 3.8.6
     platforms:
@@ -185,6 +186,8 @@ supported-platforms:
       - Xamarin.Android
       - Xamarin.iOS
       - Xamarin.Mac
+      - Windows 7 OS and higher
+      - Mac OS X 10 and higher
   - 
     version: PubnubNetPlatform C# 3.8.6
     platforms:
@@ -193,6 +196,8 @@ supported-platforms:
       - Xamarin.Android
       - Xamarin.iOS
       - Xamarin.Mac
+      - Windows 7 OS and higher
+      - Mac OS X 10 and higher
 name: c-sharp
 schema: 1
 scm: github.com/pubnub/c-sharp
